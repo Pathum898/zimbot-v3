@@ -39,7 +39,7 @@ global.APIKeys = {
 // Other
 global.owner = ['94770531536','']
 global.premium = ['94770531536','94770531536']
-global.botname = 'pathum BOT INC'
+global.botname = 'pathum BOT md'
 global.ownername = 'DRIPS'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
